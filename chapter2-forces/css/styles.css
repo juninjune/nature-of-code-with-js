@@ -1,0 +1,17 @@
+@import "reset.css";
+
+body {
+  width: 100vw;
+  height: 100vh;
+
+  background-color: grey;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  background-color: white;
+  border: 2px solid black;
+}
